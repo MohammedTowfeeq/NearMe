@@ -108,6 +108,7 @@ appartment.html
 ```
 
 ## OUTPUT
+![alt text](bakkiya/mapapp/static/map.png.png)
 ![alt text](appartment.png)
 
 ![alt text](college.png)
