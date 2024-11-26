@@ -57,7 +57,7 @@ park.html
 temple.html
 
 <html>
-    <body bgcolor="cyan">
+    <body bgcolor="orange">
         <h1>AVADI</h1>
         <h3> SIVAN TEMPLE</h3>
         <p>
@@ -70,7 +70,7 @@ temple.html
 hospital.html
 
 <html>
-    <body bgcolor="cyan">
+    <body bgcolor="green">
         <h1>AVADI</h1>
         <h3>STEDFORD HOSPITAL</h3>
         <p>
@@ -83,7 +83,7 @@ hospital.html
 college.html
 
 <html>
-    <body bgcolor="cyan">
+    <body bgcolor="blue">
         <h1>AVADI</h1>
         <h3>MURUGAPPA COLLEGE</h3>
         <p>
@@ -96,7 +96,7 @@ college.html
 appartment.html
 
 <html>
-    <body bgcolor="cyan">
+    <body bgcolor="red">
         <h1>AVADI</h1>
         <h3> Hazel Appartment</h3>
         <p>
@@ -108,14 +108,18 @@ appartment.html
 ```
 
 ## OUTPUT
-![alt text](bakkiya/mapapp/static/map.png.png)
-![alt text](appartment.png)
+![alt text](map.png.png)
 
-![alt text](college.png)
 
-![alt text](hospital.png)
-![alt text](park.png)
+![alt text](<appartment (2).png>)
+![alt text](<college (2).png>)
 
-![alt text](temple.png)
+![alt text](<hospital (2).png>)
+
+![alt text](<temple - Copy.png>)
+
+![alt text](<Screenshot (106).png>)
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
